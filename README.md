@@ -1,6 +1,6 @@
 # Quantum Computing for Genomics
 
-## Phase 0: Foundational Math (Week 1)
+## Phase 0: Foundational Math
 - Complex numbers and linear algebra for QC
   - Matrix multiplication (NumPy)
   - Eigenvalues/vectors (for Hamiltonians)
@@ -9,7 +9,7 @@
   - Measuring quantum states (Born rule)
   - Stochastic vs quantum randomness
 
-## Phase 1: Quantum Programming Basics (Weeks 2-3)
+## Phase 1: Quantum Programming Basics
 ### Qubits and Gates
 - Quantum states vs classical bits
 - Single-qubit gates (X, Y, Z, H) with Qiskit
