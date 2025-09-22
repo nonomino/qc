@@ -1,0 +1,25 @@
+# Core scientific libraries
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+
+# Quantum computing frameworks
+qiskit
+qiskit-aer
+pennylane
+cirq
+
+# Deep learning frameworks
+torch
+tensorflow
+keras
+
+# Visualization
+seaborn
+plotly
+
+# Jupyter for interactive execution
+notebook
+jupyterlab
