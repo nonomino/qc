@@ -19,6 +19,7 @@ keras
 # Visualization
 seaborn
 plotly
+gradio
 
 # Jupyter for interactive execution
 notebook
